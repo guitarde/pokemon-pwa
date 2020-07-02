@@ -1,1 +1,2 @@
-console.log('tamo activo');
+console.log(' service worker tamo activo');
+
