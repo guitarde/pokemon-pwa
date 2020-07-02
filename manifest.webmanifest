@@ -2,14 +2,15 @@
     "dir": "ltr",
     "lang": "en",
     "name": "POKE-RS",
-    "start_url": "http://127.0.0.1:8080",
+    "start_url": "http://127.0.0.1:8080/",
     "short_name": "POKEMON",
     "display": "standalone",
     "theme_color": "#4F4F4F",
     "description": "Show random pokemon",
     "orientation": "any",
     "background_color": "transparent",
-    "icons": [{
+    "icons": [
+        {
             "src": "./assets/img/logo192.png",
             "sizes": "192x192",
             "type": "image/png"
