@@ -1,2 +1,1 @@
-console.log(' service worker tamo activo');
-
+console.log("Service worker init.");
